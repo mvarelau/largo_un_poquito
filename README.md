@@ -1,4 +1,4 @@
-# ¿Largo? Un poquito no más 
+# Practice makes perfect
 He aquí el repo del  RETO#4 
 En cada uno de los archivos está cada uno de los puntos del reto #4
 ## 1.Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
